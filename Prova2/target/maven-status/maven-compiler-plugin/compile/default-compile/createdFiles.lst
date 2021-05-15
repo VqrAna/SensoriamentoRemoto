@@ -1,0 +1,13 @@
+main\Principal.class
+presenter\ImagemPresenter$1.class
+presenter\ImagemPresenter$5.class
+view\ImagemProxyView.class
+view\ImagemProxyView$1.class
+model\proxy\ImagemReal.class
+model\IImagem.class
+presenter\ImagemPresenter$3.class
+model\proxy\GerenciadorDeDownload.class
+presenter\ImagemPresenter$4.class
+presenter\ImagemPresenter$2.class
+model\proxy\ImagemProxy.class
+presenter\ImagemPresenter.class
