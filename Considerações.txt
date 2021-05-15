@@ -1,1 +1,1 @@
-O padrão Proxy melhora o desempenho da aplicação, pois não é preciso carregar uma imagem do disco toda vez que se deseja visualiza-la, se  a mesma que já foi carregada anteriormente. 
+O padrão Proxy melhora o desempenho da aplicação, pois não é preciso carregar uma imagem do disco toda vez que se deseja visualiza-la,se a mesma já foi carregada anteriormente. O Proxy se encarrega desse processo
