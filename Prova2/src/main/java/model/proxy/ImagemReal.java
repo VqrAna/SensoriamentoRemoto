@@ -30,9 +30,8 @@ class ImagemReal implements IImagem {  // Default não é visivel fora do pacote
     public void carregar(String url) throws IOException {
 
         System.out.println("Carregando a imagem " + nomeArquivo + ".jpg");
-        System.out.println("Exibindo a imagem " + nomeArquivo + ".jpg");
 
-        imagem = GerenciadorDeDownload.download(url, 690, 950);
+        imagem = GerenciadorDeDownload.download(url, 730, 810);
 
     }
 
@@ -51,6 +50,7 @@ class ImagemReal implements IImagem {  // Default não é visivel fora do pacote
 
     @Override
     public ImageIcon exibir() {
+        System.out.println("Exibindo a imagem " + nomeArquivo + ".jpg");
         return imagem;
     }
 
